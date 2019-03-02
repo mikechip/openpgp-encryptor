@@ -1,3 +1,3 @@
 # Kitty Encrypt
 
-Simple example of git browser-side encryption and decryption using OpenPGP.js (https://openpgpjs.org/)
+Simple example of browser-side messages encryption and decryption using OpenPGP.js (https://openpgpjs.org/)
